@@ -1,0 +1,14 @@
+body {
+  background: #0d0d0f;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+}
+
+img {
+  border-radius: 10px;
+}
+
+a {
+  color: orange;
+}
